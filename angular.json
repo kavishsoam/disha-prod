@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "disha-app"
+    }
+  },
+  "defaultProject": "disha-app",
+  "cli": {
+    "analytics": "a8030da2-bb1a-4fce-aaf7-96d8abf5697d"
+  }
 }
